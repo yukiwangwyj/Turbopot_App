@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Turbopot</string>
+    <string name="action_settings">Settings</string>
+    <string name="detail">How products work: Turbo Pot is an all new high-quality
+        cookware that heats up twice as fast as regular cookware - allowing you to
+        save time, reduce your gas bill and preserve more nutrients in the food you cook.</string>
+    <string name="contact">Contact us via phone at 650-930-9993
+        \nOr email at support1@turbopot.com
+        \nWe can also be reached by mail at 2225 E. Bayshore Road #200, Palo Alto, CA 94303
+        \nBusiness hour: 9am to 5pm Monday – Friday
+        \nCompany Website: www.turbopot.com
+</string>
+</resources>
